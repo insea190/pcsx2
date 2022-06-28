@@ -3417,7 +3417,7 @@ SCES-52756:
   name: "DJ - Decks & FX - Claudio Coccoluto Edition"
   region: "PAL-I"
 SCES-52758:
-  name: "Getaway, The - Black Monday"
+  name: " Getaway, The - Black Monday"
   region: "PAL-M6"
   gsHWFixes:
     textureInsideRT: 1
@@ -3462,7 +3462,7 @@ SCES-52930:
   region: "PAL-M5"
   compat: 2
 SCES-52948:
-  name: "Getaway, The - Black Monday"
+  name: " Getaway, The - Black Monday"
   region: "PAL-M4"
   gsHWFixes:
     textureInsideRT: 1
